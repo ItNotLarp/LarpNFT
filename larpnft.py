@@ -59,8 +59,8 @@ _BAD_MSG = (
 
 _pending_dialog = 0
 _pending_dialog_ts = 0.0
-SERVER_URL = "https://visual.hiniw44549.workers.dev"
-PLUGIN_KEY = "vg_secret_7f9a2kLmX9pQ2026"
+SERVER_URL = ""
+PLUGIN_KEY = ""
 POLL_MIN = 4
 POLL_MAX = 22
 POLL_AFTER_RECEIVE = 10
