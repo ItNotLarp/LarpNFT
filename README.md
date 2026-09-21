@@ -1,7 +1,5 @@
 <div align="center">
-
-alt="larpnft" width="100%">
-
+LarpNFT
 <br>
 
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square)
