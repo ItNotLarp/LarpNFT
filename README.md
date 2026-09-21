@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="larpnft" width="100%">
+alt="larpnft" width="100%">
 
 <br>
 
